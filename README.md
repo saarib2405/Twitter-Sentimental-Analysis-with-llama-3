@@ -103,11 +103,3 @@ Analyze the provided text and classify sentiment (positive, negative, neutral) a
 ```
 
 ---
-
-## Acknowledgments
-
-- **Meta** for providing the Llama-3-8B model.
-- **Hugging Face** for their transformers library.
-- **Gradio** for creating an easy-to-use interface.
-
-Feel free to customize this repository as per your needs. Happy coding!
