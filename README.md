@@ -16,7 +16,7 @@ This project enables sentiment analysis and tone classification of tweets using 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/twitter-sentiment-analysis.git
+    git clone https://github.com/saarib2405/Twitter-Sentimental-Analysis-with-llama-3.git
     cd twitter-sentiment-analysis
     ```
 
@@ -26,7 +26,7 @@ This project enables sentiment analysis and tone classification of tweets using 
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
 
-3. Install the dependencies:
+2. Install the dependencies:
     ```bash
     pip install -r requirements.txt
     ```
