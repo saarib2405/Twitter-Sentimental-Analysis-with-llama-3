@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis with Llama
+# Twitter Sentiment Analysis with Llama-3-8b
 
 This project enables sentiment analysis and tone classification of tweets using the fine-tuned Meta Llama-3-8B-Instruct model. It uses Hugging Face's transformers library and Gradio for creating an interactive interface.
 
